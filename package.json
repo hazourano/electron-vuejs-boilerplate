@@ -1,0 +1,19 @@
+{
+  "name": "electron-vuejs-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate for electron and vuejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hazourano/electron-vuejs-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hazourano/electron-vuejs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hazourano/electron-vuejs-boilerplate#readme"
+}
